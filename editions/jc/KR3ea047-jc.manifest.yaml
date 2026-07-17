@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3ea047_000-jc.yaml, hash: 'sha256:ae49b69f006d7bebba5e800baaf37f980730810456000093e78f5771441b774b'}
   - {seq: 1, filename: KR3ea047_001-jc.yaml, hash: 'sha256:80847536848a43561d56961009614253136f63c5ccfe7409f63ddf6ab3dbf4d3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea047_000-jc.markers.yaml, hash: 'sha256:31afffbe6f26cf2350f2703228f99ccb2125b115397a5cd159858e66f512aaec'}
+  - {seq: 0, role: markers, filename: assets/KR3ea047_000-jc.markers.yaml, hash: 'sha256:f2d700d8bcac0848d98b8f0317a69d44c47742095a2d6f206ef4b0b6987cd8da'}
   - {seq: 1, role: markers, filename: assets/KR3ea047_001-jc.markers.yaml, hash: 'sha256:06a67a6d897eb25d87267d70961caf11f520c1d29397f2fe691a302d77de7b1c'}
 table_of_contents:
 - ref:
@@ -323,4 +323,4 @@ table_of_contents:
   label: 水疫解
   type: section
   level: 2
-hash: sha256:05b5999a6ac87645fb84edfeb273cbc2f9b3994beae83a10952c79c94ad11ced
+hash: sha256:27137b5df65223d4f7ee6367bdbde727d47f0d45d243c21600bc4d2065c3a838
